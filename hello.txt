@@ -1,5 +1,5 @@
-hellow word  111111
-hellow word  222222
+hellow word  111
+hellow word  222
 hellow word
 
 hellow word
